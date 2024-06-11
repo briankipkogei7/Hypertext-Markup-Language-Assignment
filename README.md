@@ -1,0 +1,1 @@
+The index.html file is a well-structured webpage introducing my avatar, Ada Lovelace. It uses HTML5 semantic tags such as header, nav, main, section, and footer. The content includes three sections with headings and multiple paragraphs, providing an engaging and informative user experience.
